@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "description": "Node.js Example",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4" 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamed-anwar/openshift-nodejs.git"
+  },
+  "author": "Mohamed Anwar <mohamed_anwar@opmbx.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamed-anwar/openshift-nodejs/issues"
+  },
+  "homepage": "https://github.com/mohamed-anwar/openshift-nodejs#readme"
+}
